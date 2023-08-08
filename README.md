@@ -24,7 +24,7 @@
 
 ### 🕵️ Find me on
 <a href='https://linkedin.com/in/arslan-younas' target="_blank"><img align='left' alt="linkedin" src="https://github.com/ayounas02/ayounas02/raw/main/assets/linkedin.svg" height='25px'/></a>&nbsp; &nbsp; &nbsp;
-<a href='https://twitter.com/justb_weird' target="_blank"><img align='left' alt="twitter" src="https://github.com/ayounas02/ayounas02/raw/main/assets/twitter.svg" height='25px'/></a>
+
 <br/>
 ### 🔨 Languages and Tools using
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/ayounas02/ayounas02/raw/main/assets/react.svg"></a>
